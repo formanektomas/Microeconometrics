@@ -47,9 +47,9 @@ University of Economics, Prague
 
 ### Block 4: LDVs - Models for multinomial dependent variables  
 
-+ Unordered dependent variable: conditional, multinomial, and mixed logit models, models with hierarchical structure  
-+ Ordered dependent variable: estimation methods, marginal effects, interpretation  
-+ Discrete choice experiment (DCE): stated and revealed preferences (basic steps for designing and evaluating DCEs)  
++ Unordered dependent variables: conditional, multinomial, and mixed logit models, models with hierarchical structure  
++ Ordered dependent variables: estimation methods, marginal effects, interpretation  
++ Discrete choice experiments (DCEs): stated and revealed preferences (basic steps for designing and evaluating DCEs)  
 
 --- 
 
