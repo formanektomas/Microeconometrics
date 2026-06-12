@@ -36,7 +36,7 @@ University of Economics, Prague
 
 --- 
 
-### Block 3: LDVS - Models for binary and count dependent variables  
+### Block 3: LDVs - Models for binary and count dependent variables  
 
 + Binary dependent variable: logit, probit, marginal effects, diagnostic tests  
 + Binary dependent variable: confusion matrix, ROC curve, separated variable problem, marginal effects for models with interaction terms  
@@ -45,7 +45,7 @@ University of Economics, Prague
 
 --- 
 
-### Block 4: LDVS - Models for multinomial dependent variables  
+### Block 4: LDVs - Models for multinomial dependent variables  
 
 + Unordered dependent variable: conditional, multinomial, and mixed logit models, models with hierarchical structure  
 + Ordered dependent variable: estimation methods, marginal effects, interpretation  
@@ -53,7 +53,7 @@ University of Economics, Prague
 
 --- 
 
-### Block 5: LDVS - Other types of limited dependent variables  
+### Block 5: LDVs - Other types of limited dependent variables  
 
 + Censored and truncated data, Tobit model  
 + Heckit (sample selection models)  
