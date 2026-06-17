@@ -24,6 +24,10 @@ University of Economics, Prague
 + Generalized addtive models (GAMs)  
 + Simulation methods in microeconometrics, bootstrap, cross-validation  
 
+**Case studies and applications**  
++ [https://m-clark.github.io/generalized-additive-models/application.html](https://m-clark.github.io/generalized-additive-models/application.html){:target="_blank"}  
+
+
 --- 
 
 ### Block 2: Treatment effects analysis  
