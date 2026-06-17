@@ -34,6 +34,9 @@ University of Economics, Prague
 + Propensity score matching: propensity score, matching methods, diagnostic tests  
 + Regression discontinuity desig: with deterministic and fuzzy thresholds   
 
+**Case studies and applications**  
++ [https://theeffectbook.net/ch-RegressionDiscontinuity.html](https://theeffectbook.net/ch-RegressionDiscontinuity.html){:target="_blank"}  
+
 --- 
 
 ### Block 3: LDVs - Models for binary and count dependent variables  
