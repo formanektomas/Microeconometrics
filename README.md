@@ -53,8 +53,8 @@ University of Economics, Prague
 
 
 **Case studies and applications**  
-+ [Environmental Valuation with Discrete Choice Experiments](https://link.springer.com/book/10.1007/978-3-030-62669-3){:target="_blank"}
-+ [Environmental Valuation with Discrete Choice Experiments in R](https://link.springer.com/book/10.1007/978-3-031-89338-4)
++ [Environmental Valuation with Discrete Choice Experiments](https://link.springer.com/book/10.1007/978-3-030-62669-3){:target="_blank"}  
++ [Environmental Valuation with Discrete Choice Experiments in R](https://link.springer.com/book/10.1007/978-3-031-89338-4){:target="_blank"}  
 
 --- 
 
